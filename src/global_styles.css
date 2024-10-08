@@ -1,0 +1,28 @@
+.experience-section {
+  margin-top: 30px;
+}
+
+.job-card {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+
+.job-card h3 {
+  margin-top: 0;
+  color: #333;
+}
+
+.job-card p {
+  margin: 5px 0;
+}
+
+.job-card ul {
+  padding-left: 20px;
+}
+
+.job-card ul li {
+  margin-bottom: 10px;
+}
